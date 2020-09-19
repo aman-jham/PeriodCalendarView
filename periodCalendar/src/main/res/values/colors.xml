@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Background color-->
+    <color name="calendar_picker_bg">#00FFFFFF</color>
+
+    <color name="calendar_day_unselected_bg">#00000000</color>
+    <color name="calendar_day_selected_bg">#CA004A</color>
+
+    <color name="calendar_day_normal_font">#333333</color>
+
+    <color name="calendar_month_font">#000000</color>
+    <color name="calendar_week_font">#333333</color>
+    <color name="calendar_date_default">#000000</color>
+
+    <color name="today_color">#7BC7D2</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="inside_text">#4D494B</color>
+    <color name="ovulation_color">#31008F</color>
+    <color name="late_color">#4E4E4E</color>
+    <color name="black">#000000</color>
+</resources>
